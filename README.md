@@ -1,6 +1,13 @@
 # Experiment Name
 
-**Replace `highligthed content` to fill the README template**
+**Fill repository directories as follows:
+	- CONFIG : material for NEMO compilation
+	- INFERENCES : python and eophis material
+	- RUN : material for production
+	- POSTPROCESS : material for post-processing and plotting
+	- RES : some pertinent results **
+
+**Replace `highligthed content` below to fill the README template**
 
 ## Context and Motivation
 
