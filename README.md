@@ -1,6 +1,6 @@
-# Experiment Name
+# Generic Experiment Name
 
-**Fill repository directories as follows:**
+**Fill EXP directories as follows:**
 
 	- CONFIG : material for NEMO compilation
 	- INFERENCES : python and eophis material
@@ -12,9 +12,9 @@
 
 ## Context and Motivation
 
-`Description of the experiment`
+`Description of the experiments`
 
-## Requirements
+## Experiments Requirements
 
 **This part must list libraries versions and codes patches used to run the experiments and facilitates reproducibility.
 If one of your experiments needs different software environments, please create new repositories from NEST.**
