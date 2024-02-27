@@ -21,26 +21,26 @@ If one of your experiments needs different software environments, please create 
 
 ### Compilation
 
-- NEMO version : `[<nemo_commit>](release_number)`
+- NEMO version : `[release](<commit_link>)`
 
-- `Code Compilation manager if used : [<commit_link>](Version)`
+- `Code Compilation manager if used : [release](<commit_link>)`
 
 - `Customized sources : YES/NO`
 
 
 ### Python
 
-- Eophis version : `[<eophis_commit>](release_number)`
+- Eophis version : `[release](<commit_link>)`
 
 
 ### Run
 
-- `NEMO Production Manager if used : [<commit_link>](manager_version)`
+- `NEMO Production Manager if used : [release](<commit_link>)`
 
 
 ### Post-Process
 
-- `Post-Process libraries if used : [<commit_link>](release_number)`
+- `Post-Process libraries if used : [release](<commit_link>)`
   
-- `Plotting libraries if used : [<commit_link>](release_number)`
+- `Plotting libraries if used : [release](<commit_link>)`
 
