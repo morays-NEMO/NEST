@@ -17,7 +17,7 @@
 ## Requirements
 
 **This part must list libraries versions and codes patches used to run the experiments and facilitates reproducibility.
-If one of the experiment variations needs a different software environment, please create another repository from NEST.**
+If one of the experiment variations needs a different software environment, please create another repository from this template.**
 
 ### Compilation
 
