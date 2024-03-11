@@ -12,7 +12,12 @@
 
 ## Context and Motivation
 
-`Description of the experiment and its potential variations`
+`Description of the experiment`
+
+#### Variations
+`- VAR0 : description of experiment variation VAR0`
+
+`- VAR1 : ...`
 
 ## Requirements
 
