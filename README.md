@@ -1,5 +1,7 @@
 # Generic Experiment Name
 
+`DOI:XXXXX.XXXXX`
+
 **Fill EXP.VAR directories as follows:**
 
 	- CONFIG : material for NEMO compilation
