@@ -38,7 +38,7 @@ If one of the experiment variations needs a different software environment, plea
 ### Python
 
 - Eophis version : `[release](<commit_link>)`
-
+- Model dependencies : `pip install -f /PATH/TO/requirements.txt`
 
 ### Run
 
